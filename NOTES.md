@@ -30,6 +30,7 @@
 ### Q&A Notes
 
 - 'I do not know'
+- Many people say they dont understand Docker... but really they are note confident with Linux networking.
 
 ## Some Commands
 
